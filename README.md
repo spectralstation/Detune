@@ -1,9 +1,6 @@
 # Detune
 
-**A warm, vintage-styled wavetable synthesizer** by Spectral Station, for macOS and Windows.
-
-Three wavetable oscillators with WAV import, two filters, four LFOs, a 16-slot mod matrix you patch with
-real cables, and a full effects rack, all on a calm, Repro-inspired modular panel.
+**A wavetable synthesizer** by Spectral Station, for macOS and Windows.
 
 ## Download
 
